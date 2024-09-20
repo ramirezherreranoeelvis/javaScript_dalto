@@ -1,0 +1,1 @@
+//  el confirm es como el alert pero para confirmar, devuelve boolean

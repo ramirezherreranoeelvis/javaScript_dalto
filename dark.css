@@ -1,0 +1,14 @@
+body {
+        background-color: #0C0A20;
+        color: #FDFDFD;
+
+        font-family: cascadia code;
+}
+
+.blue {
+        text-shadow: 0 0px 4px #00ddff97;
+}
+
+.red {
+        text-shadow: 0 0px 4px #ff000097;
+}

@@ -1,0 +1,5 @@
+let parrafo = document.getElementById('parrafo')
+let porTags = document.getElementsByTagName('p')
+let querySelector = document.querySelector('.parrafo')
+let querySelectorAll = document.querySelectorAll('#rancio')
+document.write(querySelectorAll[0])
