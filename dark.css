@@ -12,3 +12,11 @@ body {
 .red {
         text-shadow: 0 0px 4px #ff000097;
 }
+
+.green {
+        text-shadow: 0 0px 4px #15ff0097;
+}
+
+.yellow {
+        text-shadow: 0 0px 4px #ffd90097;
+}
