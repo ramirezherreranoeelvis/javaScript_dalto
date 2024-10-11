@@ -6,17 +6,17 @@ body {
 }
 
 .blue {
-        text-shadow: 0 0px 4px #00ddff97;
+        text-shadow: 0 0px 6px #00ddff97;
 }
 
 .red {
-        text-shadow: 0 0px 4px #ff000097;
+        text-shadow: 0 0px 6px #ff000097;
 }
 
 .green {
-        text-shadow: 0 0px 4px #15ff0097;
+        text-shadow: 0 0px 6px #15ff0097;
 }
 
 .yellow {
-        text-shadow: 0 0px 4px #ffd90097;
+        text-shadow: 0 0px 6px #ffd90097;
 }
